@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheshee10
 - 👀 I’m interested in Data Science AI Python 
-- 🌱 I’m currently learningPython AI ML
-- 💞️ I’m looking to collaborate on AI ML
+- 🌱 I’m currently learningPython AI ML PYTHON
+- 💞️ I’m looking to collaborate on AI ML PYTHON
 - 📫 How to reach me maheshkumaree10@gmail.com
 
 <!---
